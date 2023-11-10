@@ -1,0 +1,124 @@
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\FormsApp.exe
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\FormsApp.deps.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\FormsApp.dll
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\bin\Debug\net7.0\FormsApp.pdb
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.csproj.AssemblyReference.cache
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FormsApp.props
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FormsApp.props
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FormsApp.props
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.dll
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\refint\FormsApp.dll
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.pdb
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+C:\Users\fasla\OneDrive\Masaüstü\Form\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\appsettings.json
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\FormsApp.exe
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\FormsApp.deps.json
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\FormsApp.dll
+C:\Program Files\Form\FormsApp\bin\Debug\net7.0\FormsApp.pdb
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.csproj.AssemblyReference.cache
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FormsApp.props
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FormsApp.props
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FormsApp.props
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.dll
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\refint\FormsApp.dll
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.pdb
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+C:\Program Files\Form\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.csproj.AssemblyReference.cache
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.dll
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\refint\FormsApp.dll
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.pdb
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\appsettings.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\FormsApp.exe
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\FormsApp.deps.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\FormsApp.dll
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\bin\Debug\net7.0\FormsApp.pdb
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FormsApp.props
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FormsApp.props
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FormsApp.props
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+C:\Users\fasla\OneDrive\Masaüstü\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.csproj.AssemblyReference.cache
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfoInputs.cache
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.AssemblyInfo.cs
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.csproj.CoreCompileInputs.cache
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cache
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.RazorAssemblyInfo.cs
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.dll
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\refint\FormsApp.dll
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.pdb
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\appsettings.json
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\FormsApp.staticwebassets.runtime.json
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\FormsApp.exe
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\FormsApp.deps.json
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\FormsApp.runtimeconfig.json
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\FormsApp.dll
+C:\Program Files\Form2\FormsApp\bin\Debug\net7.0\FormsApp.pdb
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.FormsApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FormsApp.props
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FormsApp.props
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FormsApp.props
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\scopedcss\bundle\FormsApp.styles.css
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\scopedcss\projectbundle\FormsApp.bundle.scp.css
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\FormsApp.genruntimeconfig.cache
+C:\Program Files\Form2\FormsApp\obj\Debug\net7.0\ref\FormsApp.dll
